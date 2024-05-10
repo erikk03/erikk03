@@ -39,4 +39,4 @@ You can find me on:
 
 Looking forward to connecting with you! 😊
 
-![Eriks's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikk03&show_icons=true&theme=tokyonight)
+![Eriks's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikk03&show_icons=true&theme=radical)
