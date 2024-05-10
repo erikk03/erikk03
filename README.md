@@ -40,7 +40,7 @@ You can find me on:
 Looking forward to connecting with you! 😊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="![Eriks's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikk03&show_icons=true&theme=radical)" />
+  <img height=200 align="center" src="!https://github-readme-stats.vercel.app/api?username=erikk03&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikk03&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
