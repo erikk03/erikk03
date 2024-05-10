@@ -38,7 +38,7 @@ You can find me on:
 - [Portfolio Website](https://erikk03.github.io/mywebsite/)
 
 Looking forward to connecting with you! 😊
-![Alt text](https://tenor.com/bhOSD.gif)
+
 ## My GitHub Stats!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=erikk03&theme=radical&border_radius=10&rank_icon=github" />
@@ -47,4 +47,4 @@ Looking forward to connecting with you! 😊
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikk03&layout=compact&langs_count=8&card_width=320&theme=radical&border_radius=10" />
 </a>
 
-![Alt text](https://tenor.com/bhOSD.gif)
+![Alt text](https://tenor.com/el/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)
