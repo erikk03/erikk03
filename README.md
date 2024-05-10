@@ -39,9 +39,12 @@ You can find me on:
 
 Looking forward to connecting with you! 😊
 
+## My GitHub Stats!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=erikk03&theme=radical&border_radius=10&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikk03&layout=compact&langs_count=8&card_width=320&theme=radical&border_radius=10" />
 </a>
+  
+  <img align="right" alt="Coding" width="400" src="[add your link here](https://tenor.com/bhOSD.gif)">
