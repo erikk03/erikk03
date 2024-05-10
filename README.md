@@ -40,5 +40,5 @@ You can find me on:
 Looking forward to connecting with you! 😊
 
 ## My GitHub Stats!
-<img height=200 align="center" src1="https://github-readme-stats.vercel.app/api?username=erikk03&theme=radical&border_radius=10&rank_icon=github" src2="https://github-readme-stats.vercel.app/api/top-langs?username=erikk03&layout=compact&langs_count=8&card_width=320&theme=radical&border_radius=10" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=erikk03&theme=radical&border_radius=10&rank_icon=github" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikk03&layout=compact&langs_count=8&card_width=320&theme=radical&border_radius=10" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikk03&layout=compact&langs_count=8&card_width=320&theme=radical&border_radius=10" />
