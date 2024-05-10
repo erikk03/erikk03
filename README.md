@@ -47,5 +47,4 @@ Looking forward to connecting with you! 😊
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikk03&layout=compact&langs_count=8&card_width=320&theme=radical&border_radius=10" />
 </a>
   
- <img src="https://tenor.com/bhOSD.gif" width="40" height="40" />
-  ![Alt Text](https://tenor.com/bhOSD.gif)
+ <img src="(https://tenor.com/bhOSD.gif)" width="40" height="40" />
