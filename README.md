@@ -47,5 +47,4 @@ Looking forward to connecting with you! 😊
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikk03&layout=compact&langs_count=8&card_width=320&theme=radical&border_radius=10" />
 </a>
   
-  <img align="right" alt="Coding" width="400" src="https://tenor.com/bhOSD.gif">
-<div class="tenor-gif-embed" data-postid="16601149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149">Kitten Cat GIF</a>from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img align="right" alt="Coding" width="400" href="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149" src="[https://tenor.com/bhOSD.gif](https://tenor.com/embed.js)">
