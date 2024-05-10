@@ -48,3 +48,4 @@ Looking forward to connecting with you! 😊
 </a>
   
   <img align="right" alt="Coding" width="400" src="(https://tenor.com/bhOSD.gif)">
+  ![Alt Text](https://tenor.com/bhOSD.gif)
