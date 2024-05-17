@@ -26,7 +26,7 @@ I'm familiar with:
 
 - Programming languages: C, C++, Python, SQL, Assembly
 - Frameworks: React.js, Pandas, .NET, Unity
-- Tools: Git, Github, Visual Studio Code, Microsoft teams, Microsoft 365
+- Tools: Git, Github, Visual Studio Code, Microsoft Teams, Microsoft 365, StarUML
 - Databases: MySQL, SQLite, Microsoft SQL Server
 
 ## Let's Connect!
