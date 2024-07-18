@@ -26,7 +26,7 @@ Feel free to explore my repositories for more!
 I'm familiar with:
 
 - Programming languages: C, C++, Java, Python, SQL, Assembly
-- Frameworks: React.js, Pandas, .NET, Unity
+- Frameworks: React.js, Pandas, Unity
 - Tools: Git, Github, Visual Studio Code, Microsoft 365, StarUML, Matlab, Overleaf
 - Databases: MySQL, SQLite, Microsoft SQL Server
 
