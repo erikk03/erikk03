@@ -18,16 +18,16 @@ Here are some of the projects I'm proud of:
 2. [Implementation-of-Database-Systems](https://github.com/erikk03/Implementation-of-Database-Systems-Project2): Implementing a database using extendible hash tables and more...
 3. [WerewolvesVsVampires](https://github.com/erikk03/WerewolvesVsVampires): Terminal based game using C++ and Object Oriented Programming techniques
 4. [Operating-Systems](https://github.com/erikk03/OS-Project1): Communication via shared memory using semaphores and threads
-5. [To the moon](https://github.com/erikk03/Data-Structures-And-Algorithms/tree/main/2022-project-1-erikk03): 2D Game developed in C language. You can play [here](https://k08.chatzi.org/games/2022/competition/ToTheMoon/game.html).
+5. [To the moon](https://github.com/erikk03/Data-Structures-And-Algorithms/tree/main/2022-project-1-erikk03): 2D Game developed in C language. You can play [here](https://k08.chatzi.org/games/2022/competition/ToTheMoon/game.html)
 
 Feel free to explore my repositories for more!
 
 ## Technologies
 
-I'm familiar with:
+Some of the tools I'm familiar with:
 
-- Programming languages: C, C++, Java, Python, SQL, Assembly
-- Frameworks: React.js, Pandas, Unity
+- Programming languages: C, C++, Java, Javascript, Python, SQL, Assembly
+- Frameworks: React.js, Next.js, Node.js, Pandas, Unity
 - Tools: Git, Github, Visual Studio Code, Microsoft 365, StarUML, Matlab, Overleaf
 - Databases: MySQL, SQLite, Microsoft SQL Server
 
@@ -37,7 +37,6 @@ You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/erik-kajacka-1872bb289/)
 - [Instagram](https://www.instagram.com/erik.kajacka/?hl=en)
-- [Portfolio Website](https://erikk03.github.io/mywebsite/)
 
 Looking forward to connecting with you! 😊
 
