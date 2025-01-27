@@ -15,10 +15,11 @@ I'm a passionate computer scientist based in Athens, Greece. I love diving into 
 Here are some of the projects I'm proud of:
 
 1. [Web-Application-for-Business-Connection](https://github.com/erikk03/workwave): This is a web application similar to linkedIn
-2. [Implementation-of-Database-Systems](https://github.com/erikk03/Implementation-of-Database-Systems-Project2): Implementing a database using extendible hash tables and more...
-3. [WerewolvesVsVampires](https://github.com/erikk03/WerewolvesVsVampires): Terminal based game using C++ and Object Oriented Programming techniques
-4. [Operating-Systems](https://github.com/erikk03/OS-Project1): Communication via shared memory using semaphores and threads
-5. [To the moon](https://github.com/erikk03/Data-Structures-And-Algorithms/tree/main/2022-project-1-erikk03): 2D Game developed in C language. You can play [here](https://k08.chatzi.org/games/2022/competition/ToTheMoon/game.html)
+2. [Web-Page-for-Finding-a-Nanny](https://github.com/erikk03/ntantades): This is a web app re-design of goverment's page https://ntantades.gov.gr/
+3. [Implementation-of-Database-Systems](https://github.com/erikk03/Implementation-of-Database-Systems-Project2): Implementing a database using extendible hash tables and more...
+4. [WerewolvesVsVampires](https://github.com/erikk03/WerewolvesVsVampires): Terminal based game using C++ and Object Oriented Programming techniques
+5. [Operating-Systems](https://github.com/erikk03/OS-Project1): Communication via shared memory using semaphores and threads
+6. [To the moon](https://github.com/erikk03/Data-Structures-And-Algorithms/tree/main/2022-project-1-erikk03): 2D Game developed in C language. You can play [here](https://k08.chatzi.org/games/2022/competition/ToTheMoon/game.html)
 
 Feel free to explore my repositories for more!
 
@@ -26,10 +27,10 @@ Feel free to explore my repositories for more!
 
 Some of the tools I'm familiar with:
 
-- Programming languages: C, C++, Java, Javascript, Python, SQL, Assembly
-- Frameworks: React.js, Next.js, Node.js, Pandas, Unity
-- Tools: Git, Github, Visual Studio Code, Microsoft 365, StarUML, Matlab, Overleaf
-- Databases: MySQL, SQLite, Microsoft SQL Server
+- Programming languages: C, C++, Java, Javascript, Python, SQL, Assembly etc.
+- Frameworks: React.js, Next.js, Node.js, Pandas, Unity etc.
+- Tools: Git, Github, Visual Studio Code, Microsoft 365, StarUML, Matlab, Overleaf and more...
+- Databases: MySQL, MongoDB, Google-Firestore, Microsoft SQL Server
 
 ## Let's Connect!
 
